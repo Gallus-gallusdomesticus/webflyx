@@ -1,1 +1,5 @@
+#Ignore secure directory
 secure
+
+#Ignore advert.html
+advert.html
